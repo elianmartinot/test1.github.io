@@ -7,7 +7,7 @@
         <title>Niveau 2</title>
 </head><body id="deux">
 <a href="un.html" ><img src="images/logo/retour.png" width="50" id="retour" ></a>
-<a href="trois.html" ><img src="images/logo/next.png" width="90" id="next"></a>
+<a href="trois.html" ><img src="images/logo/Next.png" width="90" id="next"></a>
 <br><br><br><br><br>
 <font size="5"><center>
 <span style="color:white">Voici le niveau 2 où notre PrinceCroc devra traverser une forêt sombre mais attention, plusieurs ennemis s'y cachent !
